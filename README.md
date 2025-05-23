@@ -3,20 +3,23 @@
 </div>  
   
 
-### <div align="center">I'm Kanika, a  passionate Front End developer👨‍💻learning Back End development 🚀</div>  
-  
+### <div align="center">Hi, I'm Kanika — Full-Stack Developer & AI Enthusiast 💻🚀</div>
 
-- 🌱 I’m currently learning backend development and solving DSA questions.  
-  
+👩‍💻 Currently building advanced full-stack apps with MERN + TailwindCSS
 
-- ❓ Ask me about anything related to caffeine☕   and MERN.
-  
+🤖 Exploring the intersection of AI, n8n automation, and developer tools
 
-- ☕ Fun Fact: My code runs on coffee... and so do I!  
-  
+📊 Actively solving DSA problems and participating in coding contests
 
--  📫 How to reach me kanikasin216@gmail.com  
-  
+🛠️ Passionate about clean UI, scalable APIs, and building tools that think with you
+
+📫 Reach me at: kanikasin216@gmail.com
+
+☕ Fun fact: My code compiles faster after coffee. Coincidence? I think not.
+
+❓ Ask me about: Full-stack projects, AI in web dev, or your next hackathon idea!
+
+
 
 <br/>  
 
