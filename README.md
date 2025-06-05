@@ -1,4 +1,6 @@
-![github-header-image](https://github.com/user-attachments/assets/0194e068-642f-4622-b2a1-fb3badfd0e52)
+![bye](https://github.com/user-attachments/assets/85708aba-cac3-4cfc-96bb-ad33e8645358)
+
+
 
 #  About Me:
 Currently building advanced full-stack apps with MERN + TailwindCSS<br>🤖 Exploring the intersection of AI, n8n automation, and developer tools<br>📊 Actively solving DSA problems and participating in coding contests<br>🛠️ Passionate about clean UI, scalable APIs, and building tools that think with you<br>💡 Integrating AI agents using Relevance AI and n8n to enhance user workflows
